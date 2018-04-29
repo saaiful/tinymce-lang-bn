@@ -9,7 +9,7 @@ tinymce.addI18n('bn_BD', {
 	"Ok": "ঠিক আছে",
 	"Cancel": "বাতিল",
 	"Visual aids": "দৃষ্টি সহায়ক",
-	"Bold": "মোটা",
+	"Bold": "স্থূল",
 	"Italic": "ইটালিক",
 	"Underline": "নিম্নরেখা",
 	"Strikethrough": "কাটা দাগ",
